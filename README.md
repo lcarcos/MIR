@@ -88,7 +88,7 @@ for track in results['tracks'][:10]:
 ```
 Finally, we create a DataFrame with the most popular songs by importing the respective audio characteristics.
 
-[View code](https://github.com/lcarcos/music-is-data/blob/main/Projeto%20Final%20-%20BI%20Master%20-%20Luis%20Claudio%20Arcos.ipynb)
+[View code](https://github.com/lcarcos/MIR/blob/main/Intro%20to%20MIR_01)
 
 
 <div style="page-break-after: always;"></div>
