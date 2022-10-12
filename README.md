@@ -2,7 +2,7 @@
 
 ### Abstract 
 
-Music Information Retrieval, or MIR, is the science of analyzing and categorizing musical data. MIR is a growing field of research with many real-world applications. Music recommendation systems are examples of application. The music streaming platform Spotify applies artificial intelligence techniques to audio analysis and provides access to this data through its web API. This work presents the development of an application for analyzing and categorizing musical data using Python and Spotify web API.
+Music Information Retrieval, or MIR, is the science of analyzing and categorizing musical data. MIR is a growing field of research with many real-world applications. Music recommendation systems are examples of application. The music streaming platform Spotify applies artificial intelligence techniques to audio analysis and provides access to this data through its web API. This work presents the development of an application for analyzing and categorizing music data using Python and Spotify web API.
 
 ### 1. Introduction 
 
