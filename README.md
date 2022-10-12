@@ -200,7 +200,7 @@ As we can see from the analysis of the graphs above, some characteristics are co
 
 ### 4. Conclusions
 
-In the digital age, music is data. According presented, *music information retrieval* is a growing and essential field of research for *streaming* services such as Spotify.
+In the digital age, music is data. As presented, *music information retrieval* is a growing and essential field of research for *streaming* services such as Spotify.
 
 More studies are needed to directly relate the characteristics of the audio and the popularity of the songs. But looking at the release date of the songs, it is clear that the latest releases are also the most popular songs. Given the way Spotify's algorithm works, and seeing volatility as a characteristic of the music industry, we understand the current market preference for *singles* release.
 
