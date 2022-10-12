@@ -98,7 +98,7 @@ Finally, we create a DataFrame with the most popular songs by importing the resp
 #### Audio Features
 
 Spotify API provides important information about songs. By analyzing the music's key characteristics, Spotify is able to determine its similarity to other music and make recommendations based on how the music sounds compared to others. This is how Spotify recommends smaller artists and newer music so users don't just listen to popular music from bigger artists.
-For each track on its platform, Spotify provides data for thirteen audio resources. The [Spotify Web API developer guide](https://developer.spotify.com/console/get-audio-features-track/) defines them as follows:
+For each track on its platform, Spotify provides data for thirteen audio resources. The [Spotify Web API developer guide](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features) defines them as follows:
 
 >*Danceability*: Describes how suitable a track is for dancing based on a combination of musical elements, including tempo, rhythm stability, beat strength, and overall regularity.
 >
