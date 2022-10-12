@@ -12,8 +12,6 @@ Music information retrieval is the science of analyzing and categorizing musical
 
 Spotify is a very popular music service that applies machine learning techniques for audio analysis and music information retrieval. Fortunately, Spotify makes this data available through its web API. It is possible to explore the characteristics of the audio and analyze the tracks in detail.
 
-Some of these characteristics could explain why some songs are more or less popular. This analysis is especially useful for musicians, record labels and music distributors, who may choose to invest limited resources (advertising campaigns, studio equipment, etc.) in tracks that are likely to become popular.
-
 The objective of this work is to create a music analysis and categorization application based on Spotify's recommendation system. We will use Python and the Spotify API in our development.
 
 In this work, we will use the artist Anitta as an example. We want to search for your most popular songs, offering a visual analysis of the audio characteristics.
