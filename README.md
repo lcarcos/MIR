@@ -6,8 +6,6 @@ Music Information Retrieval, or MIR, is the science of analyzing and categorizin
 
 ### 1. Introduction 
 
-Chances are you are subscribed to some kind of popular music streaming service. Whether it's Spotify, Deezer or Apple Music, you've probably been exposed to a music information retrieval app.
-
 Music information retrieval is the science of analyzing and categorizing musical data. Some applications of MIR are closely related to the field of data science, while combining various fields such as psychoacoustics, signal processing, machine learning and computational intelligence. MIR is a growing field of research with many real-world applications. Music recommendation systems are examples of application.
 
 Spotify is a very popular music service that applies machine learning techniques for audio analysis and music information retrieval. Fortunately, Spotify makes this data available through its web API. It is possible to explore the characteristics of the audio and analyze the tracks in detail.
